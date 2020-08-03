@@ -1,0 +1,15 @@
+*.axf
+*.map
+*.orig
+*.bak
+*.o
+*.su
+*.jdebug
+*.jdebug.*
+*.d
+*.log
+*.hex
+*.py
+**/.metadata/
+*.xml
+**/.mcuxpressoide_packages_support/
